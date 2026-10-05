@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/gregory-of-nyssa/on-the-making-of-man/william-moore_henry-austin-wilson</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2026-10-05T18:20:15Z</dc:date>
+		<meta property="dcterms:modified">2026-10-05T18:20:15Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<meta property="rdf:type">http://schema.org/Book</meta>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
@@ -40,13 +40,13 @@
 		<meta property="schema:genre">Spirituality</meta>
 		<meta property="schema:abstract">An early Christian theologian expounds on the doctrine of humanity being made in God’s image.</meta>
 		<dc:description>
-			&lt;p&gt;&lt;i&gt;On the Making of Man&lt;/i&gt; is an early treatise on theological anthropology, the area of Christian theology that inquires into human nature with respect to God. In the treatise, the 4th century bishop and theologian &lt;a href="https://standardebooks.org/ebooks/gregory-of-nyssa"&gt;Gregory of Nyssa&lt;/a&gt; interprets the creation narrative found in the first three chapters of the Book of Genesis. In particular, he expounds on the verse Genesis 1:27, the textual basis of the Christian doctrine of &lt;i&gt;imago Dei&lt;/i&gt; (i.e. that humanity is made in God’s image). He argues that, being made in the likeness of divine sovereignty, human beings possess inherent dignity. This resemblance to God lies in humanity’s capability to possess godlike virtues, such as purity and freedom from passion. In order to refute opposing Christian and non-Christian views on human nature, Gregory ponders the soul’s relationship with the body, arguing that neither the body nor the soul preceeded the other, but that both were co-created. He also argues for the possibility of the universal restoration of creation to perfection (a controversial doctrine known as &lt;i&gt;apokatastasis&lt;/i&gt;) on the basis of the finitude of evil.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;On the Making of Man&lt;/i&gt; is an early treatise on theological anthropology, the area of Christian theology that inquires into human nature with respect to God. In the treatise, the 4th century bishop and theologian &lt;a href="https://standardebooks.org/ebooks/gregory-of-nyssa"&gt;Gregory of Nyssa&lt;/a&gt; interprets the creation narrative found in the first three chapters of the Book of Genesis. In particular, he expounds on the verse Genesis 1:27, the textual basis of the Christian doctrine of &lt;i&gt;imago Dei&lt;/i&gt; (i.e. that humanity is made in God’s image). He argues that, being made in the likeness of divine sovereignty, human beings possess inherent dignity. This resemblance to God lies in humanity’s capability to possess godlike virtues, such as purity and freedom from passion. In order to refute opposing Christian and non-Christian views on human nature, Gregory ponders the soul’s relationship with the body, arguing that neither the body nor the soul preceded the other, but that both were co-created. He also argues for the possibility of the universal restoration of creation to perfection (a controversial doctrine known as &lt;i&gt;apokatastasis&lt;/i&gt;) on the basis of the finitude of evil.&lt;/p&gt;
 		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://en.wikisource.org/wiki/Nicene_and_Post-Nicene_Fathers:_Series_II/Volume_V/Philosophical_Works/The_Making_of_Man</dc:source>
 		<dc:source>https://archive.org/details/selectlibraryofn05scha</dc:source>
-		<meta property="schema:wordCount">WORD_COUNT</meta>
-		<meta property="schema:educationalLevel">READING_EASE</meta>
+		<meta property="schema:wordCount">37293</meta>
+		<meta property="schema:educationalLevel">40.39</meta>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
 		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
 		<link href="https://github.com/standardebooks/gregory-of-nyssa_on-the-making-of-man_william-moore_henry-austin-wilson" refines="#vcs-repository" rel="schema:codeRepository"/>
@@ -91,6 +91,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Emma Sweeney</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Sweeney, Emma</meta>
+		<link href="https://www.linkedin.com/in/emma-sweeney-554927190/" refines="#producer-2" rel="schema:url"/>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
